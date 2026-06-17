@@ -2,7 +2,7 @@
 
 A desktop application to track daily expenses built with Python and Tkinter.
 ## Screenshot
-![Expense Tracker App](app display.png)
+![Expense Tracker App](screenshot.png)
 
 ## Features
 - Add expenses with name, date and amount
